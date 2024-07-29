@@ -1,16 +1,16 @@
-## Hi there 👋
+## Bem vindos, alunos e alunas. 👀
 
-<!--
-**brunocolusso/brunocolusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Bruno Colusso
+Sou professor da rede estadual de Educação de São Paulo e da Rede Municipal de Piracicaba. 
 
-Here are some ideas to get you started:
+##segue minha rede social
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@brunocolusso 
+
+
+![](https://media1.tenor.com/m/s62nOPTbk2AAAAAd/hiyeee-hi.gif)
+
+
+
+
+
